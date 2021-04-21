@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xl0PKdOA9H2D7k3TzrVIs/pAbU80BLAObhMmF002RMpLiWoA8KMrenIJaGzL6RamiXN30AycdhjL+8MyvZj1jA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ITWORK\\Desktop\\mokslai\\dotnet\\dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ITWORK\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

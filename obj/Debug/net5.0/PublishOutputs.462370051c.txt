@@ -1,0 +1,6 @@
+C:\Users\ITWORK\Desktop\mokslai\dotnet\bin\Debug\net5.0\publish\dotnet.exe
+C:\Users\ITWORK\Desktop\mokslai\dotnet\bin\Debug\net5.0\publish\dotnet.dll
+C:\Users\ITWORK\Desktop\mokslai\dotnet\bin\Debug\net5.0\publish\dotnet.deps.json
+C:\Users\ITWORK\Desktop\mokslai\dotnet\bin\Debug\net5.0\publish\dotnet.runtimeconfig.json
+C:\Users\ITWORK\Desktop\mokslai\dotnet\bin\Debug\net5.0\publish\dotnet.pdb
+C:\Users\ITWORK\Desktop\mokslai\dotnet\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
